@@ -417,7 +417,7 @@ if (event.key !== "z") {
 
 function refresh() {
     if(new Date().getTime() - time >= 110000) 
-        window.location.href = 'https://soundsofhumanimpact.github.io/byrdbot2screensaver/'; 
+        window.location.href = 'https://soundsofhumanimpact.github.io/byrdbot3screensaver/'; 
     else 
         setTimeout(refresh, 10000);
 }
