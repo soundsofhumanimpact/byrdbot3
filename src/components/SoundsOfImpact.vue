@@ -72,7 +72,7 @@
 		<br>
 		<br>
 		<br>
-		<footer id= "footer">Bird songs are sourced from <a href="https://www.macaulaylibrary.org">Cornell Lab of Ornithology/Macaulay Library</a> This physical installation of ByrdBot was made possible by funding from the <a href="https://ccca.rowan.edu/">Ric Edelman College of Communication & Creative Arts</a> as well as the <a href="https://earth.rowan.edu/">School of Earth & Environment</a> at <a href="https://www.rowan.edu">Rowan University</a>.</footer>
+		<footer id= "footer">Bird songs are sourced from <a href="https://www.macaulaylibrary.org">Cornell Lab of Ornithology/Macaulay Library</a> This physical installation of ByrdBot was made possible by funding from the <a href="https://earth.rowan.edu/">School of Earth & Environment</a> at <a href="https://www.rowan.edu">Rowan University</a>.</footer>
   </div>
 </template>
 
