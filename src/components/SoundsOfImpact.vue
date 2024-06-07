@@ -8,8 +8,8 @@
       <!--<p><button class="landscape" id="woodlands" v-if="isHidden3" v-on:click="isWoodLand(); generateSoundscape(); isHidden3=false; isHidden4=false; isHidden2=true; other()">Listen to Soundscape</button><p>-->
     <span>
  
-     <p v-if="!isHidden" id="surveyQuestion"><br><br><br><br>Are you interested to help us learn more about environmental communication? If so, use the QR code below to open a survey that you can fill out before and after interacting with ByrdBot. <br>
-         <br><a href="https://rowan.co1.qualtrics.com/jfe/form/SV_eR5SdXa3GylTHBI"><img src="byrdbotsurvey.png"></a> </p>
+     <!--<p v-if="!isHidden" id="surveyQuestion"><br><br><br><br>Are you interested to help us learn more about environmental communication? If so, use the QR code below to open a survey that you can fill out before and after interacting with ByrdBot. <br>
+         <br><a href="https://rowan.co1.qualtrics.com/jfe/form/SV_eR5SdXa3GylTHBI"><img src="byrdbotsurvey.png"></a> </p>-->
 	
 
      <!--<button id="aboutButton" v-if="!aboutHidden" v-on:click="isModalVisible=true">About</button>-->
